@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="AppTheme" parent="BaseTheme">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="BaseTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    <!--<item name="android:windowNoTitle">true</item> -->
+    <!--  <item name="android:windowActionBar">false</item>  -->
+    <!-- colorPrimary is used for the default action bar background -->
+    <item name="colorPrimary">#673AB7</item>
+    <!-- colorPrimaryDark is used for the status bar -->
+    <item name="colorPrimaryDark">#512DA8</item>
+    <!-- colorAccent is used as the default value for colorControlActivated
+         which is used to tint widgets -->
+    <item name="colorAccent">#E91E63</item>
+    </style>
+
+</resources>
